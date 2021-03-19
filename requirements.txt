@@ -4,7 +4,7 @@ django-heroku
 
 Django==2.2.1
 
-djangorestframework==3.10.0
+djangorestframework==3.11.2
 
 dynamic-rest==1.9.4
 
